@@ -1,0 +1,4 @@
+﻿  practice.cpp
+C:\Users\karta\Desktop\C\week5\practice\practice\practice.cpp(95,12): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+C:\Users\karta\Desktop\C\week5\practice\practice\practice.cpp(129,11): warning C4477: 'scanf_s' : 格式字串 '%d' 需要 'int *' 類型的引數，但 variadic 引數 1 的類型為 'int'
+  practice.vcxproj -> C:\Users\karta\Desktop\C\week5\practice\Debug\practice.exe

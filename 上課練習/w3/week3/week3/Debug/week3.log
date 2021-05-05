@@ -1,0 +1,6 @@
+﻿  week3.cpp
+C:\Users\karta\Desktop\C\week3\week3\week3\week3.cpp(15,10): warning C4473: 'scanf_s' : 傳遞給格式字串的引數不足
+C:\Users\karta\Desktop\C\week3\week3\week3\week3.cpp(15,10): message : 預留位置及其參數需要 2 個 variadic 引數，但卻提供了 1 個
+C:\Users\karta\Desktop\C\week3\week3\week3\week3.cpp(15,10): message : 缺少 variadic 引數 2 (其為格式字串 '%c' 所需)
+C:\Users\karta\Desktop\C\week3\week3\week3\week3.cpp(15,10): message : 此引數可用為緩衝區大小
+  week3.vcxproj -> C:\Users\karta\Desktop\C\week3\week3\Debug\week3.exe
